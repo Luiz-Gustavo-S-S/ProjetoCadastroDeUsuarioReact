@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Luiz Gustavo Da Silva Simoes",
+      "email": "gustavosimoes1997@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Mariah isabele SIlva",
+      "email": "Mariah@cliente.com.br",
+      "id": 2
+    },
+    {
+      "name": "Rubia Saraiva ",
+      "email": "RubiaS@gmail.com",
+      "id": 3
+    }
+  ]
+}
